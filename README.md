@@ -12,10 +12,7 @@ Welcome to Leads Collector, a Chrome Extension designed to simplify and streamli
 
 - **Save to Local Storage:**
   Leads are securely stored in the extension's local storage for quick access and reference.
-
-- **Export Functionality:**
-  Export collected leads to a CSV file for seamless integration with your CRM or marketing tools.
-
+  
 - **Intuitive User Interface:**
   User-friendly interface designed for simplicity and efficiency.
 
@@ -63,9 +60,6 @@ Welcome to Leads Collector, a Chrome Extension designed to simplify and streamli
 
 Contributions are welcome! If you find a bug, have a feature request, or want to contribute, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
